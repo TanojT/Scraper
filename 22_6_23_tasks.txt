@@ -1,0 +1,22 @@
+mockaroo.com
+
+populate 10 fields for employees in that with various data types data
+
+generate data to csv 
+
+csv with clean data 
+status 0 or 1 should be translated to active or inactive -- done
+date should be converted into epoch format in new coloumn epoch date
+hire date should be like month-day-year format 
+id  coulumn field should have 5 characters -- done
+5 digit unique id should be generated in a new coloumn ---> it should be unique fname- first character 
+display name :  firstname_lastname  _ -> single space for employees
+for contractor (contracter) should be appended in last name coloumn
+
+
+filename should be processed_file_($dateandtime).csv
+1000 --10000 3-different data sets -- 100
+
+
+
+write your resume into html format 
